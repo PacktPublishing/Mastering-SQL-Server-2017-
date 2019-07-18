@@ -1,5 +1,4 @@
 # Mastering SQL Server 2017
-Build smart and efficient database applications for your organization with SQL Server 2017
 
 Mastering SQL Server 2017 brings in the power of R and Python for machine learning and containerization-based deployment on Windows and Linux. By knowing how to use the features of SQL Server 2017 to your advantage, you can build scalable applications and easily perform data integration and transformation.
 
