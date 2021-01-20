@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-sql-server-2017/9781838983208)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Mastering SQL Server 2017
 
 Mastering SQL Server 2017 brings in the power of R and Python for machine learning and containerization-based deployment on Windows and Linux. By knowing how to use the features of SQL Server 2017 to your advantage, you can build scalable applications and easily perform data integration and transformation.
