@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838983208)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Mastering SQL Server 2017
 
 Mastering SQL Server 2017 brings in the power of R and Python for machine learning and containerization-based deployment on Windows and Linux. By knowing how to use the features of SQL Server 2017 to your advantage, you can build scalable applications and easily perform data integration and transformation.
